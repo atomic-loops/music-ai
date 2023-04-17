@@ -6,7 +6,7 @@ from parse.parse_train import parse_args
 from data import Data_functions
 from models import Models_functions
 from utils import Utils_functions
-from train import Train_functions
+from train_model import Train_functions
 
 if __name__ == "__main__":
 
